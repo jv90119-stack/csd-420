@@ -1,3 +1,9 @@
+// JOSE VELAZQUEZ
+// MODULE 1.3 ASSIGNMENT 
+// DATE: 03/29/2026
+// This program displays four random playing cards from a standard deck of 52 cards.
+
+
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
