@@ -1,3 +1,9 @@
+// JOSE VELAZQUEZ
+// MODULE 2.2 ASSIGNMENT 
+// DATE: 04/05/2026
+// This program reads data from a file and displays it in a TextArea when a button is clicked.
+
+
 import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
