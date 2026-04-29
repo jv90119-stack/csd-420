@@ -1,0 +1,20 @@
+/* JOSE VELAZQUEZ
+ MODULE 7.2 ASSIGNMENT 
+ DATE: 04/29/2026
+ This is the CSS file for the Circle Style Test application. */
+
+
+.whitecircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+#redcircle {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: green;
+}
